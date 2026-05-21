@@ -1,0 +1,9 @@
+[
+  {
+    "version": "1.0.0",
+    "releaseDate": "2026-05-21",
+    "changelog": "- Versión inicial de DocuHub\n- Gestión documental con nomenclatura estandarizada\n- Panel de administración con departamentos y tipos\n- Búsqueda de documentos con filtros\n- Backups automáticos\n- Sistema de actualizaciones automáticas",
+    "downloadUrl": "https://github.com/Bianis2/docuhub-releases/releases/download/v1.0.0/DocuHub.Setup.1.0.0.exe",
+    "checksum": "sha256:57FAFFE91E268757B9C63A70C795743C276E4BC7EB80C9CFD3E68F5B82BEB415"
+  }
+]
